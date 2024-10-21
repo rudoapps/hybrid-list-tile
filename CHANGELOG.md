@@ -1,3 +1,7 @@
+## 1.0.4
+
+* Change GitHub repository images
+
 ## 1.0.3
 
 * Updated GitHub images
