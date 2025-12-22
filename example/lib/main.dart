@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: const Text('Custom List Tile Example')),
+        appBar: AppBar(title: const Text('Hybrid List Tile Example')),
         body: ListView(children: const [
           HybridListTile(
               paddingTileTop: 20,

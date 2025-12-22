@@ -1,6 +1,6 @@
 name: hybrid_list_tile
 description: HybridListTile widget allows creating customized ListTiles with various properties like padding, colors, icons, titles, subtitles, and more.
-version: 1.0.5
+version: 1.1.0
 homepage: https://rudo.es/
 repository: https://github.com/rudoapps/hybrid-list-tile.git
 issue_tracker: https://github.com/rudoapps/hybrid-list-tile/issues
